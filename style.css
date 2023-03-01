@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
+
+
 body{
     
     font-family: 'Poppins', sans-serif;
@@ -20,6 +22,8 @@ body{
     
 
 }
+
+
 
 .head-h1{
  color: white;
@@ -79,24 +83,20 @@ input{
     border-radius: 4px;
     box-sizing: border-box;
    
+   
 }
 
+input[type=text]{
+    font-size: 15px;
+    font-weight: 800;
+}
+
+
+
  ::placeholder {
-   position: absolute;
-   left:30px;
-   top: 16px;
    font-size: 15px;
    font-weight: 800;
   }
-/* 
-  input[type=text] {
-    
-    margin-left: 18px;
- 
-    
-    
-
-  } */
 
 
 
